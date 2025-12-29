@@ -8,9 +8,9 @@ defineProps({
 </script>
 
 <template>
-  <div class="food-card">
+  <section class="food-card">
     <img :src="image" :alt="title" class="food-img" />
-    <div class="food-content">
+    <article class="food-content">
       <h3>{{ title }}</h3>
       <p>{{ description }}</p>
       <ul>
@@ -20,6 +20,6 @@ defineProps({
           </a>
         </li>
       </ul>
-    </div>
-  </div>
+    </article>
+  </section>
 </template>

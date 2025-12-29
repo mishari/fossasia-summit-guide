@@ -7,98 +7,86 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'Home', link: '/guide/01-welcome' },
     ],
-    // sidebar: [
-    //   {
-    //     text: 'Examples',
-    //     items: [
-    //       { text: 'Guide', link: '/guide/' }
-    //     ]
-    //   }
-    // ],
     sidebar: [
       {
         text: 'Participant Guide',
         items: [
-          { text: 'Welcome & Quick Start', link: '#_1-welcome-information-quick-start' },
-
-          {
-            text: 'Pre-arrival & Visa', link: '#_2-pre-arrival-and-visa',
+          { text: 'Welcome & Quick Start', link: '/guide/01-welcome' },
+          { 
+            text: 'Pre-arrival and Visa', link: '/guide/02-pre-arrival',
             collapsed: true,
             items: [
-              { text: 'Digital Arrival Card (TDAC)', link: '#_2-1-digital-arrival-card-tdac' },
-              { text: 'Visa Information', link: '#_2-2-visa-information' },
-              { text: 'Power', link: '#_2-3-power' }
-            ]
-          },
-
-          {
-            text: 'Arrival at Airport', link: '#_3-arrival-at-airport',
-            collapsed: true,
-            items: [
-              { text: 'Suvarnabhumi Airport (BKK)', link: '#_3-1-suvarnabhumi-airport-bkk' },
-              { text: 'Don Mueang Airport (DMK)', link: '#_3-2-don-mueang-airport-dmk' }
-            ]
-          },
-
-          { text: 'Connectivity (eSIM & SIM Cards)', link: '#_4-connectivity-esim-sim-cards' },
-          { text: 'Payments (Cash, Card, QR)', link: '#_5-payments-cash-card-qr' },
-          {
-            text: 'Getting Around', link: '#_6-getting-around',
-            collapsed: true,
-            items: [
-              { text: 'Trains', link: '#trains' },
-              { text: 'Ride-Hailing Services', link: '#ride-hailing-services' },
-              { text: 'Buses', link: '#buses' },
-              { text: 'Tuk Tuk', link: '#tuk-tuk' },
-              { text: 'Canal boats', link: '#canal-boats' },
-              { text: 'River boats', link: '#river-boats' },
-              { text: 'Bicycles', link: '#bicycles' }
+              { text: 'Digital Arrival Card (TDAC)', link: '/guide/02-pre-arrival#digital-arrival-card-tdac' },
+              { text: 'Visa Information', link: '/guide/02-pre-arrival#visa-information' },
+              { text: 'Power', link: '/guide/02-pre-arrival#power' }
             ]
           },
           {
-            text: 'FOSSASIA Summit Venue', link: '#_7-fossasia-summit-venue',
+            text: 'Arrival at Airport', link: '/guide/03-arrival.md',
             collapsed: true,
             items: [
-              { text: 'Catering', link: '#_7-1-catering' },
-              { text: 'Nursing Mothers', link: '#_7-2-nursing-mothers' },
-              { text: 'Guests with Special Mobility Needs', link: '#_7-3-guests-with-special-mobility-needs' },
-              { text: 'Parking', link: '#_7-4-parking' },
-              { text: 'Lost and Found', link: '#_7-5-lost-and-found' }
+              { text: 'Suvarnabhumi Airport (BKK)', link: '/guide/03-arrival/#suvarnabhumi-airport-bkk' },
+              { text: 'Don Mueang Airport (DMK)', link: '/guide/03-arrival#don-mueang-airport-dmk' }
             ]
           },
-
+          { text: 'Connectivity (eSIM & SIM Cards)', link: '/guide/04-connectivity' },
+          { text: 'Payments (Cash, Card, QR)', link: '/guide/05-payments' },
           {
-            text: 'Conference Program and Social Media', link: '#_8-conference-program-and-social-media',
+            text: 'Getting Around', link: '/guide/06-getting-around',
             collapsed: true,
             items: [
-              { text: 'Conference Schedule', link: '#_8-1-conference-schedule' },
-              { text: 'Social Media', link: '#_8-2-social-media' },
-              { text: 'Conference Photo', link: '#_8-3-conference-photo' }
-            ]
-          },
-          { text: 'Accommodation', link: '#_9-accommodation' },
-          {
-            text: 'Food in Bangkok', link: '#_10-food-in-bangkok',
-            collapsed: true,
-            items: [
-              { text: 'Food', link: '#_10-1-food' },
-              { text: 'Food Delivery Services', link: '#_10-2-food-delivery-services' },
-              { text: 'Rooftop Bars', link: '#_10-3-rooftop-bars' },
-              { text: 'Dessert / Afternoon Tea', link: '#_10-4-dessert-afternoon-tea' },
-              { text: 'Must-try Dishes (local recommended)', link: '#_10-5-must-try-dishes-local-recommended' }
+              { text: 'Trains', link: '/guide/06-getting-around#trains' },
+              { text: 'Ride-Hailing Services', link: '/guide/06-getting-around#ride-hailing-services' },
+              { text: 'Buses', link: '/guide/06-getting-around#buses' },
+              { text: 'Tuk Tuk', link: '/guide/06-getting-around#tuk-tuk' },
+              { text: 'Canal boats', link: '/guide/06-getting-around#canal-boats' },
+              { text: 'River boats', link: '/guide/06-getting-around#river-boats' },
+              { text: 'Bicycles', link: '/guide/06-getting-around#bicycles' }
             ]
           },
           {
-            text: 'Wellness & Leisure', link: '#_11-wellness-leisure',
+            text: 'FOSSASIA Summit Venue', link: '/guide/07-fossasia-summit-venue',
             collapsed: true,
             items: [
-              { text: 'Traditional Massage', link: '#_11-1-traditional-massage' },
-              { text: 'Points of Interest', link: '#_11-2-points-of-interest' }
+              { text: 'Catering', link: '/guide/07-fossasia-summit-venue#catering' },
+              { text: 'Nursing Mothers', link: '/guide/07-fossasia-summit-venue#nursing-mothers' },
+              { text: 'Guests with Special Mobility Needs', link: '/guide/07-fossasia-summit-venue#guests-with-special-mobility-needs' },
+              { text: 'Parking', link: '/guide/07-fossasia-summit-venue#parking' },
+              { text: 'Lost and Found', link: '/guide/07-fossasia-summit-venue#lost-and-found' }
             ]
           },
-          { text: 'Emergency Numbers', link: '#_12-emergency-numbers' }
+          {
+            text: 'Conference Program and Social Media', link: '/guide/08-conference-program-and-social-media',
+            collapsed: true,
+            items: [
+              { text: 'Conference Schedule', link: '/guide/08-conference-program-and-social-media#conference-schedule' },
+              { text: 'Social Media', link: '/guide/08-conference-program-and-social-media#social-media' },
+              { text: 'Conference Photo', link: '/guide/08-conference-program-and-social-media#conference-photo' }
+            ]
+          },
+          { text: 'Accommodation', link: '/guide/09-accommodation' },
+          {
+            text: 'Food in Bangkok', link: '/guide/10-food-in-bangkok',
+            collapsed: true,
+            items: [
+              { text: 'Food', link: '/guide/10-food-in-bangkok#food' },
+              { text: 'Food Delivery Services', link: '/guide/10-food-in-bangkok#food-delivery-services' },
+              { text: 'Rooftop Bars', link: '/guide/10-food-in-bangkok#rooftop-bars' },
+              { text: 'Dessert / Afternoon Tea', link: '/guide/10-food-in-bangkok#dessert-afternoon-tea' },
+              { text: 'Must-try Dishes (local recommended)', link: '/guide/10-food-in-bangkok#must-try-dishes-local-recommended' }
+            ]
+          },
+          {
+            text: 'Wellness & Leisure', link: '/guide/11-wellness-and-leisure',
+            collapsed: true,
+            items: [
+              { text: 'Traditional Massage', link: '/guide/11-wellness-and-leisure#traditional-massage' },
+              { text: 'Points of Interest', link: '/guide/11-wellness-and-leisure#points-of-interest' }
+            ]
+          },
+          { text: 'Emergency Numbers', link: '/guide/12-emergency' }
         ]
       },
     ],
@@ -113,5 +101,4 @@ export default defineConfig({
       }
     ]
   },
-
 })
