@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/guide/',
   title: "FOSSASIA Summit 2026",
   description: "Participant guide for international travelers for FOSSASIA Summit 2026 at Bangkok",
   themeConfig: {
