@@ -45,7 +45,7 @@ import FoodCard from '../.vitepress/components/FoodCard.vue'
 
 const foods = [
   {
-    image: "/guide/image10.png",
+    image: "/guide/image10.webp",
     title: "Pad Thai",
     description:
       "This quintessential Thai dish is made with stir-fried rice noodles, tofu, eggs, and a tamarind-based sauce, garnished with peanuts and lime.",
@@ -55,7 +55,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image8.png",
+    image: "/guide/image8.webp",
     title: "Tom Yum Goong",
     description:
       "Famous Thai soup made with shrimp, fragrant herbs, lemongrass, kaffir lime leaves, galangal, and chili in a spicy and sour broth.",
@@ -65,7 +65,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image7.png",
+    image: "/guide/image7.webp",
     title: "Som Tum (Green Papaya Salad)",
     description:
       "Vibrant and spicy salad made from shredded green papaya, tomatoes, peanuts, lime juice, and fish sauce.",
@@ -76,7 +76,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image13.png",
+    image: "/guide/image13.webp",
     title: "Mee Gai Cheek (Shredded Chicken Noodles)",
     description:
       "A comforting dish of soft egg noodles topped with tender shredded chicken, and aromatic broth, and garnished with fresh herbs and crispy garlic.",
@@ -85,7 +85,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image3.png",
+    image: "/guide/image3.webp",
     title: "Thai Boat Noodles",
     description:
       "Popular street food dishes consist of savory pork or beef noodle soup, often served in small bowls.",
@@ -97,7 +97,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image6.png",
+    image: "/guide/image6.webp",
     title: "Pad Kra Pao Moo Sap (Stir-Fried Minced Pork with Holy Basil)",
     description:
       "Classic Thai street food dish made with minced pork, Thai holy basil, garlic, and chilies, often served with a fried egg and jasmine rice.",
@@ -110,7 +110,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image1.png",
+    image: "/guide/image1.webp",
     title: "Thai Iced Tea (Cha Yen)",
     description:
       "Sweet and creamy iced tea made with black tea, sugar, and condensed milk, served over ice.",
@@ -121,7 +121,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image11.png",
+    image: "/guide/image11.webp",
     title: "Khao Soi",
     description:
       "Northern Thai specialty, this creamy and fragrant coconut curry noodle soup is topped with crispy fried noodles, lime, shallots, and pickled mustard greens.",
@@ -131,7 +131,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image12.png",
+    image: "/guide/image12.webp",
     title: "Seafood in Bangkok",
     description:
       "Bangkok is a haven for seafood lovers, offering fresh and flavorful dishes like grilled fish, spicy seafood salads, and crispy oyster omelettes. From street-side vendors to upscale restaurants, Thai seafood highlights vibrant spices and herbs.there’s something for everyone.",
@@ -141,7 +141,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image2.png",
+    image: "/guide/image2.webp",
     title: "Khao Man Gai (Hainanese Chicken Rice)",
     description:
       "Beloved Thai dish consists of poached chicken served over fragrant rice cooked in chicken broth, accompanied by a flavorful ginger-chili sauce and a side of clear chicken soup.",
@@ -151,7 +151,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image14.png",
+    image: "/guide/image14.webp",
     title: "Yam Talay (Spicy Seafood Salad)",
     description:
       "Refreshing and tangy salad with mixed seafood, lime juice, chili, and herbs, offering a perfect balance of heat and sourness.",
@@ -163,7 +163,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image4.png",
+    image: "/guide/image4.webp",
     title: "Moo Kra Ta (Thai BBQ) & Shabu (Thai Hot Pot)",
     description:
       "Beloved Thai dining experience, Moo Kra Ta grills marinated meats and seafood on a hot plate with broth, while Shabu simmers thinly sliced meats and vegetables in flavorful broth. Perfect for sharing with friends and family!",
@@ -177,7 +177,7 @@ const foods = [
     ]
   },
   {
-    image: "/guide/image5.png",
+    image: "/guide/image5.webp",
     title: "Street Food Experience",
     description:
       "Bangkok is famous for its street food, offering everything from grilled satay skewers to savory pancakes and noodle dishes.",
