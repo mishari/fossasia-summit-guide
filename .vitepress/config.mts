@@ -54,7 +54,7 @@ export default defineConfig({
             items: [
               { text: 'Catering', link: '/guide/07-fossasia-summit-venue#catering' },
               { text: 'Nursing Mothers', link: '/guide/07-fossasia-summit-venue#nursing-mothers' },
-              { text: 'Guests with Special Mobility Needs', link: '/guide/07-fossasia-summit-venue#guests-with-special-mobility-needs' },
+              { text: 'Accessibility', link: '/guide/07-fossasia-summit-venue#accessibility' },
               { text: 'Parking', link: '/guide/07-fossasia-summit-venue#parking' },
               { text: 'Lost and Found', link: '/guide/07-fossasia-summit-venue#lost-and-found' }
             ]
@@ -95,7 +95,7 @@ export default defineConfig({
         text: 'Want to Help?',
         items: [
           { text: '<i class="fa-brands fa-github"></i> Contribute to the guide', link: 'https://github.com/ishanmitra/fossasia-summit-guide' },
-          { text: '<i class="fa-solid fa-pen-to-square"></i> Editing guide', link: 'https://github.com/ishanmitra/fossasia-summit-guide' },
+          { text: '<i class="fa-solid fa-pen-to-square"></i> Editing guide', link: 'guide/contributing' },
           { text: '<i class="fa-brands fa-whatsapp"></i> Get involved', link: 'https://chat.whatsapp.com/JPb0tgjxuOYERRZa6KRLuy' },
         ]
       },

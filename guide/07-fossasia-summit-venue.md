@@ -8,15 +8,17 @@ _**Note:** Bangkok traffic can be unpredictable. We strongly recommend traveling
 
 ## Catering
 
-Food will be available in the exhibition area with vegetarian and non-vegetarian options. Additional restaurants and cafés, including halal options, are located throughout the conference building. Water dispensers are available—please help reduce waste by bringing your own water bottle.
+Food will be available in the exhibition area with vegetarian and non-vegetarian options. Additional restaurants and cafés, including halal options, are located throughout the conference building. Water dispensers are available. Please help reduce waste by **bringing your own water bottle**.
 
 ## Nursing Mothers
 
-A dedicated Mother’s Room is available. Please visit the **Registration Desk** to be directed to the area by a team member.
+A dedicated mother’s room is available for nursing. Please visit the **Registration Desk** to be directed to the area by a team member.
 
-## Guests with Special Mobility Needs
+## Accessibility
 
-The venue is equipped to assist guests with mobility issues. Please notify the organizers in advance at **office@fossasia.org** to ensure proper assistance.
+The venue is equipped to support participants with mobility assistance. We also support speakers requiring accessibility accommodation during their session (as in, usage of assistive technology).
+
+[Please notify the organizers in advance at **office@fossasia.org** for a smooth accessibility accommodation](mailto:office@fossasia.org?subject=Accessibility%20Accommodation%20for%20FOSSASIA%20Summit%202026).
 
 ## Parking
 
