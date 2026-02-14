@@ -28,7 +28,7 @@ Several bike-sharing services operate in central Bangkok:
 
 - **[Anywheel](https://www.anywheel.co.th/)** (green bikes) — 10 THB per 30 minutes. Requires return to designated stations.
 - **[Hello Punpun](https://www.facebook.com/hellopunpunbikeshare)** (blue bikes) — 10 THB per 30 minutes. Requires return to designated stations.
-- **[GCOO](https://gcoo.io/)** (green e-scooters) — 15 THB per 15 minutes. Can be returned anywhere within the service area.
+- **[GCOO](https://gcoo.io/)** (green e-scooters) — 3 baht per minute. Can be returned anywhere within the service area.
 
 A map of bike-sharing station locations is available [here](https://www.google.com/maps/d/viewer?mid=1uNuLkjtv_hm0DIIKNF8R2p8_WCJMtog&usp=sharing) (enable Pun pun and Anywheel providers when viewing).
 
