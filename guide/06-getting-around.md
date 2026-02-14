@@ -2,7 +2,7 @@
 
 Bangkok offers diverse transportation options for every budget and travel style.
 
-**Conference Venue:** The venue is a **5-minute walk from Punnawithi BTS Station (E11), Sukhumvit Line**, or a quick ride by Anywheel bike-share bicycle.
+The venue is a **5-minute walk from Punnawithi BTS Station (E11), Sukhumvit Line**, or a quick ride by Anywheel bike-share bicycle.
 
 ## Trains (Recommended)
 
