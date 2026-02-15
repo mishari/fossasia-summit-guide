@@ -8,7 +8,9 @@ On the other hand, while you can often get by in Thailand with just cash, dealin
 
 ## Getting cash
 
-<!-- TODO -->
+You can bring in a maximum of THB 450 000 in Thai baht, or USD 15 000 equivalent in any other foreign currency, without needing to declare at customs. As such, the recommended way to bring cash in to Thailand is to exchange for Thai baht in your country before departure. Alternatively, you may exchange cash after arriving in Thailand, but note that exchange rates near airports tend to have a significant markup; if possible, prefer bank branches (*not* bank exchange booths at airports) or currency exchanges within malls. Note that you need to present your passport when exchanging currency.
+
+You can also withdraw Thai baht from all ATMs – Thai ATMs accept MasterCard, Visa, UnionPay, JCB and American Express. However, exchange rates may be unfavourable and there may be fees depending on your home bank and the bank providing the ATM, so consider this a backup option.
 
 ## Options for cashless payment
 
@@ -17,4 +19,16 @@ The most convenient way to access QR code payments as a foreigner is to sign up 
 [easy-pay]: https://www.tagthai.com/easy-pay
 [pay-and-tour]: https://www.kasikornbank.com/en/personal/Digital-banking/Pages/pay&tour.aspx
 
-<!-- TODO: more options -->
+Thailand’s PromptPay is also compatible with QR payment systems from some countries in Southeast and East Asia. This is limited however: only specific banks in those countries are supported, and the merchant must be using a supported bank as well (usually the five biggest banks: Bangkok Bank, Kasikorn Bank, SCB, Krungthai and Krungsri (Bank of Ayudhya)). There are also daily transaction limits that depend on your country. See the Bank of Thailand’s [Cross-border Payment][cross-border-payment] page for more details.
+
+[cross-border-payment]: https://www.bot.or.th/en/financial-innovation/digital-finance/digital-payment/cross-border-payment.html
+
+If you have WeChat Pay, Alipay or UnionPay, these are supported at some stores, especially ones owned by Chinese immigrants. However these are by no means universally accepted, so it’s not recommended to rely on them.
+
+## Other
+
+The **Rabbit** card is a special payment network originally made for paying fares for the BTS skytrain, though it is also accepted at some other stores, usually those in or near BTS stations. A full list of [supported stores][supported-stores] can be found on the Rabbit website. To get one, simply ask to buy a Rabbit card at a BTS station\*’s ticket booth and show your passport. (Note: citizens of Iran, North Korea or Myanmar are not allowed to buy Rabbit cards.) You will have to pay THB 200: a THB 100 issuing fee and a THB 100 initial balance. After that, you can top up the Rabbit card in THB 100 increments at any BTS station\*.
+
+\*Also includes stations of other train lines that are operated by the BTS company, namely the Gold Line, the MRT Yellow Line and the MRT Pink Line.
+
+[supported-stores]: https://rabbit.co.th/where-to-use-and-top-up
