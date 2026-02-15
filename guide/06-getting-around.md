@@ -1,35 +1,59 @@
-# Getting Around
+# Getting Around Bangkok
 
-Bangkok offers an extraordinary array of transportation options, catering to every budget, comfort level, and adventure preference.
+Bangkok offers diverse transportation options for every budget and travel style.
 
-## Trains
+The venue is a **5-minute walk from Punnawithi BTS Station (E11), Sukhumvit Line**, or a quick ride by Anywheel bike-share bicycle.
 
-Bangkok’s rail network includes **BTS**, **MRT**, **ARL**, and **SRT**. BTS, MRT, and ARL are modern, air-conditioned, and reliable, with fares typically ranging from **15–100 THB**. Routes are easy to navigate using Google Maps or Moovit.
+## Trains (Recommended)
 
-The **BTS Skytrain** is the most convenient way to travel around the city, avoiding traffic while connecting major areas. Many stations support **contactless credit card payments (Visa/Mastercard)** — look for EMV signs at ticket gates.
+Bangkok's rail network includes **BTS**, **MRT**, **ARL**, and **SRT**. These systems are modern, air-conditioned, and reliable, with fares typically ranging from **15–100 THB**. Routes are easy to navigate using Google Maps or Moovit. Operating hours are typically **6:00 AM – midnight**.
 
-**Venue access:** The conference venue is a **5-minute walk from Punnawithi BTS Station (E11), Sukhumvit Line.**
+The **BTS Skytrain** is the most convenient way to travel around the city, avoiding traffic while connecting major areas.
 
-For real-time updates, you may download the **BKK Rail App** (available on Google Play and the App Store).
+### Payment Options
 
-Tickets can be purchased via cash, cross-border QR payment, WePay, or at ticket machines and staffed counters.
+**EMV Contactless (Tap-to-Pay):** The **MRT**, **ARL** (Airport Rail Link), and **SRT** systems support EMV contactless payments — tap your Visa or Mastercard credit/debit card directly at ticket gates (look for the contactless wave symbol). This is the same tap-to-pay technology used worldwide.
 
-## Ride-Hailing Services
-Traffic in Bangkok can be heavy and unpredictable. Ride-hailing apps are a convenient option, especially outside peak hours. Commonly used apps include [Grab](https://www.grab.com/th/en/), [Bolt](https://bolt.eu/en/cities/bangkok/), [Tada](https://tada.global/), [LINE MAN](https://lineman.line.me/), [InDrive](https://indrive.com/). Grab is generally considered the most reliable and offers multiple vehicle options.
+**BTS Payment:** The BTS does not currently support EMV. Tickets can be purchased at machines or counters using cash (coins and banknotes up to 100 THB). Newer BTS ticket machines also accept **QR payments**.
 
-Motorcycle taxis (drivers wearing orange vests) and regular taxis are also widely available. When using taxis, always ensure the **meter is turned on**. Helmets should always be worn when using motorcycle taxis.
+For real-time updates, download the **BKK Rail App** (available on Google Play and the App Store).
+
+## Bicycles
+
+Bangkok's emerging cycling culture offers an intimate way to explore the city, featured by Forbes as one of the [best ways to explore Bangkok](https://stories.forbestravelguide.com/bangkoks-unexpected-outdoor-adventures). While dedicated bike lanes are limited, cycling reveals hidden galleries and local eateries off the main tourist paths. 
+
+True Digital Park provides secure bicycle parking near Starbucks for private bicycles. 
+
+Several bike-sharing services operate in central Bangkok:
+
+- **[Anywheel](https://www.anywheel.co.th/)** (green bikes) — 10 THB per 30 minutes. Requires return to designated stations.
+- **[Hello Punpun](https://www.facebook.com/hellopunpunbikeshare)** (blue bikes) — 10 THB per 30 minutes. Requires return to designated stations.
+- **[GCOO](https://gcoo.io/)** (green e-scooters) — 3 baht per minute. Can be returned anywhere within the service area.
+
+A map of bike-sharing station locations is available [here](https://www.google.com/maps/d/viewer?mid=1uNuLkjtv_hm0DIIKNF8R2p8_WCJMtog&usp=sharing) (enable Pun pun and Anywheel providers when viewing).
+
+### Cycling Safety
+
+- Prioritize sidewalk riding on major roads, maintaining slow speeds and yielding to pedestrians
+- Navigate through quieter side streets when possible — use the OsmAnd app for bicycle routing via side streets
+- Note that trains accommodate only folding bicycles
+- Stay well-hydrated in Bangkok's tropical climate
+- Check air quality index (AQI) before cycling during hazy periods
 
 ## Buses
 
-Bangkok’s bus network is extensive and inexpensive, with routes available on Google Maps and Moovit. However, buses are affected by traffic conditions. Fares are paid in cash.
+Bangkok's bus network is extensive and inexpensive, with routes available on Google Maps and Moovit. However, buses are affected by traffic conditions. Fares are paid in cash onboard.
 
 A bus stop with multiple routes is located **directly in front of the venue**.
 
 ## Tuk Tuk
 
-These three-wheeled vehicles come in two varieties: 1) [Muvmi's](https://muvmi.co/) app-based prepaid service offers comfortable rides with knowledgeable drivers OR 2) Street-hailed versions cater primarily to tourists seeking thrilling city tours (negotiate fares in advance).
+These iconic three-wheeled vehicles come in two varieties: 
 
-## Canal boats
+1. **[Muvmi](https://muvmi.co/)** — An app-based prepaid service offering comfortable rides with knowledgeable drivers that operate as a last mile provider
+2. **Street-hailed tuk tuks** — catering primarily to tourists seeking thrilling city tours (always negotiate fares in advance)
+
+## Canal Boats
 
 Canal boats on the **Saen Saeb Canal** offer a fast and inexpensive way to travel across parts of the city. From **Petchaburi MRT Station**, boats provide access toward the old town area for **12–22 THB**.
 
@@ -37,14 +61,8 @@ Canal boats on the **Saen Saeb Canal** offer a fast and inexpensive way to trave
 
 The **Chao Phraya River** is another major transport route. From **Saphan Taksin BTS Station**, river boats connect destinations such as ICONSIAM, the Grand Palace, and areas north toward Nonthaburi.
 
-## Bicycles
+## Ride-Hailing Services
 
-Bangkok's emerging cycling culture offers an intimate way to explore the city, endorsed by Forbes as one of the [best ways to explore Bangkok](https://stories.forbestravelguide.com/bangkoks-unexpected-outdoor-adventures). While dedicated lanes are scarce, cycling transforms routine commutes into sensory adventures, revealing hidden galleries and local eateries. True Digital Park provides secure bicycle parking near Starbucks for private bicycles, and the [Anywheel](https://www.anywheel.co.th/) bike-sharing system offers convenient pickup points throughout central Bangkok with nearby parking stations on the sidewalk near Punnawithi BTS exit 5 and the sidewalk in front of True Digital Park.
+Traffic in Bangkok can be heavy and unpredictable. **Travel times can vary dramatically—up to 15 times longer during peak hours compared to off-peak times—so exercise caution when planning time-sensitive journeys.** Commonly used apps include [Grab](https://www.grab.com/th/en/), [Bolt](https://bolt.eu/en/cities/bangkok/), [Tada](https://tada.global/), [LINE MAN](https://lineman.line.me/), and [InDrive](https://indrive.com/) with Grab being the most popular.
 
-Essential Cycling Guidelines:
-- Prioritize sidewalk riding on major roads, maintaining slow speeds and pedestrian courtesy
-- Navigate through quieter side streets when possible
-- Note that trains accommodate only folding bicycles
-- Stay well-hydrated in Bangkok's tropical climate
-
-AnyWheel rental fee is 10 Baht / 30 minutes, you can use the code ANYXFOSSASIA for a 20 Baht discount (limited availability). Instructions for using AnyWheel is [here](https://drive.google.com/open?id=1mfYb3AUxAx5xrTDkZ-lIelBBjMwcLSVl&usp=drive_fs) and for using the discount vouchers [here](https://drive.google.com/open?id=1S1KahQWhENIL9C8ASGTxWcnYHcRjoFqu&usp=drive_fs).
+Motorcycle taxis (drivers wearing orange vests) and regular taxis are also widely available. When using taxis, always ensure the **meter is turned on**, and when using motorcycle taxis **always wear a helmet**.
