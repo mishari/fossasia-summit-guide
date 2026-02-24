@@ -17,7 +17,9 @@ For those seeking exceptional culinary experiences, here are some selected resta
 
 ## Food Delivery Services
 
-Bangkok has reliable food delivery services that are easy to use for international visitors. Popular apps include **GrabFood**, **foodpanda**, and **LINE MAN**. All offer English-language interfaces and allow you to filter restaurants by dietary preferences, including **halal**, **vegetarian**, and **plant-based** options. Delivery is fast and widely available across the city.
+Bangkok has reliable food delivery services that are easy to use for international visitors. Popular apps include **GrabFood**, **foodpanda**, and **LINE MAN**. All offer English-language interfaces and allow you to filter restaurants by dietary preferences, including **halal** and **vegetarian** options. Delivery is fast and widely available across the city.
+
+Note, it can be confusing as some vegetarian restaurants serve imitation meat that's described as meat (i.e. pork, chicken) but in effect vegetarian, whilst others will wrongly appear in the search. If in doubt feel free to ask the local organizers.
 
 ## Rooftop Bars
 
@@ -28,15 +30,35 @@ Bangkok's skyline provides a magnificent backdrop for evening dining and drinks.
 - [Red Sky at Centara Grand](https://www.instagram.com/redskybangkok/?hl=en)
 - [Penthouse Bar + Grill](https://www.instagram.com/penthousebangkok/?hl=en)
 
-## Dessert / Afternoon Tea:
+## Dessert / Tea / Coffees:
 
-- [AFTER YOU dessert café](https://www.instagram.com/afteryoudessertcafe/)
-- [TWG Tea Thailand](https://www.instagram.com/twgteath/?hl=en)
-- [Cafe Dior Bangkok](https://www.tiktok.com/discover/cafe-dior-bangkok)
-- [Divana Signature Cafe](https://www.instagram.com/divanasignaturecafe/)
-- [K. Panich Sticky Rice](https://maps.app.goo.gl/PymoXAg3jQ3Zr8D8A)
-- [Kad Kokoa - Single Origin Thai Chocolate](https://kadkokoa.co/?srsltid=AfmBOorhsPAf6LD8jjUh72mitM-Z_UMP5uthRQGYQ22BABSCsFtPiqsi)
-- [Pridi cacao](https://www.instagram.com/pridi_cacao/?hl=en)
+Bangkok is now a premiere destination for coffee, tea, matcha, and especially chocolate with a Michelin star chef saying "[Thai cocolate is one of the best in the world](https://cnaluxury.channelnewsasia.com/people/michelin-restaurant-igniv-chef-arne-riehn-bangkok-250336)" many of these are available for purchase through the apps above however going to the cafe themselves will give you the best flavour.
+
+### Desserts
+- [AFTER YOU dessert café](https://www.instagram.com/afteryoudessertcafe/) - Highly popular Thai dessert chain famous for its signature Shibuya honey toasts and elaborately layered, melt-in-your-mouth kakigori (Japanese shaved ice).
+- [TWG Tea Thailand](https://www.instagram.com/twgteath/?hl=en) - A luxurious tea salon and boutique that offers an extensive, world-class selection of fine teas and elegant pastries in a sophisticated, gold-accented setting.
+- [Cafe Dior Bangkok](https://www.tiktok.com/discover/cafe-dior-bangkok) - High-fashion culinary experience blending French elegance and haute couture aesthetics, featuring an exclusive menu curated by renowned chef Mauro Colagreco. Reservations may be required.
+- [Divana Signature Cafe](https://www.instagram.com/divanasignaturecafe/) - Beautifully decorated, floral-themed cafe established by a renowned Thai spa brand, known for its intricate afternoon tea sets and deeply relaxing ambiance.
+- [K. Panich Sticky Rice](https://maps.app.goo.gl/PymoXAg3jQ3Zr8D8A) - Legendary, Michelin Bib Gourmand-recognized storefront open since 1947 that is celebrated for serving some of Bangkok's most authentic and delicious mango sticky rice.
+
+### Cacao and Chcocolate
+- [Kad Kokoa - Single Origin Thai Chocolate](https://kadkokoa.co/) - Focusing heavily on single-origin terroir, this pioneering Thai craft brand elevates the country's harvest by turning locally farmed beans into premium, award-winning chocolate.
+- [Pridi cacao](https://www.instagram.com/pridi_cacao/?hl=en) - Working closely with regional growers, this artisanal, chef-founded studio crafts small-batch chocolates designed to highlight distinct, localized Thai flavors.
+- [32 Barx & WeWish Chocolate](https://www.instagram.com/wewish.chocolate/) - Located in [8 Thong lor](https://maps.app.goo.gl/4CKyM2mF293eXmR87), showcasing an internationally recognized, award-winning Thai craft chocolatier, this specialty cafe serves intensely rich, single-origin drinking chocolates famously crafted by melting almost an entire premium chocolate bar directly into each cup.
+- [CHO Bangkok](https://www.instagram.com/explore/locations/122987579965846/cho-bangkok/) - Woman owned and operated, tucked away in the vibrant Asoke area, this cozy artisan cafe specializes in exquisitely crafted filled chocolate bars, crunchy Thai-inspired toffees, and an exceptionally smooth house-blend hot chocolate.
+- [Kanvela Chocolate](https://www.kanvelachocolate.com/) - Garnering international acclaim and proudly serving its creations to Thai Airways premium passengers, this Chiang Mai-founded brand champions sustainable bean-to-bar craftsmanship to transform locally grown cacao into award-winning delicacies.
+- [Christoph Chocolate](https://www.instagram.com/christophchocolate/) - Using premium imported ingredients to craft its decadent menu, this chic spot is famous among locals for its signature chocolate "slurpee," an intensely rich and satisfying drink that drinks exactly like a liquid chocolate mousse.
+- [Ch'och' Specialty Chocolate](https://www.instagram.com/choch.songwat/) - Hidden behind old wooden warehouse doors within the beautifully preserved, historic merchant neighborhood of Song Wat, this vintage-style cafe highlights the distinct terroir of Thailand by serving single-origin craft chocolates sourced directly from regional farms.
+- [Fair Chocolate](https://www.instagram.com/fair.chocolate/) - Nestled in the bustling Yaowarat (Chinatown) district, this micro-batch chocolate maker champions seasonal, 100% natural Thai single-origin beans, allowing visitors to experience the distinct terroir of different local provinces through carefully guided tasting flights and specialty drinks.
+- [Cacao Everywhere](https://www.instagram.com/cacaoeverywhere/) - Serving as a comprehensive hub for the country's craft chocolate community near Sam Yan, this store gathers artisanal brands from various regional makers under one roof, offering an unparalleled opportunity to explore and compare Thailand's finest cacao in a single visit.
+
+### Coffee
+
+TBD
+
+### Matcha
+
+TBD
 
 ## Must-try Dishes (local recommended) 
 
