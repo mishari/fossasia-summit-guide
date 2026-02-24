@@ -6,7 +6,7 @@ While Google Maps offers reliable navigation to nearby eateries including keywor
 
 For those seeking exceptional culinary experiences, here are some selected restaurants.
 
-## Food
+## Restaurants
 
 - [Kub Khao kub pla](https://www.instagram.com/kubkaokubpla/)
 - [KHAO](https://khaorestaurants.com/)
@@ -59,6 +59,18 @@ TBD
 ### Matcha
 
 TBD
+
+## Late night dining
+
+Please be aware of restaurants’ closing times. Usually food courts and small mom-and-pop food places (think: small open-air area with metal or plastic tables and chairs, serving cheap street food) close in the late afternoon or early evening, between 16:00 and 20:00. Mom-and-pop places tend to close earlier; some might even close in the early afternoon. Meanwhile, restaurants inside malls tend to stop accepting orders one or two hours before the mall closes. Most malls close at 22:00, so this will be between 20:00 and 21:00. After 21:00, your options for dining become more limited. Some street food hawkers stay out late on the sidewalks, but this isn’t particularly predictable. Some fancier restaurants (not inside malls) may be open until later, but this is highly variable. Bars will usually be open until after midnight, but food at bars tend to be very expensive even compared to other restaurants.
+
+In a pinch, of course, almost all 7-Eleven convenience stores are open 24/7. However, the local-recommended way of reliably getting food late at night will be at hot pot restaurants, especially mu kratha, which tend to be open until at least 02:00.
+
+Apart from this, a few other places are known to be open 24 hours, such as:
+
+- [The Street Ratchada](https://maps.app.goo.gl/wsFmR2k4bh11w7c8A), shopping centre
+- [Foodland](https://www.instagram.com/foodlandsupermarket), supermarket with restaurant
+- [A Ramen](https://www.instagram.com/aramen_official), ramen chain
 
 ## Must-try Dishes (local recommended) 
 
@@ -217,3 +229,15 @@ const foods = [
   :key="food.title"
   v-bind="food"
 />
+
+### Hot pot
+
+Thailand has a significant culture of going to hot pot restaurants, where food is cooked communally at the table, especially to celebrate special occasions. Hot pot places come in many variations, but there are a few main types:
+
+* Thai suki, shabu-shabu, sukiyaki, mala tang: food is cooked in broth in a pot at the table. The pot may have dividers to hold multiple broths in one pot. Each person then scoops up the food they want to eat into their own bowl or plate to have with various dipping sauces.
+  - [MK Restaurant](https://www.instagram.com/mkrestaurant): à la carte, serving Thai suki. Follows mall opening and closing times. Price usually between THB 150 and 400 per person. All-you-can-eat available at select locations, THB 499 minimum per person.
+  - [Momo Paradise](https://www.instagram.com/momoparadiseth): all-you-can-eat, serving Japanese sukiyaki and shabu-shabu. Follows mall opening and closing times. THB 659 minimum per person.
+  - [Suki Teenoi](https://www.instagram.com/sukiteenoi): all-you-can-eat, serving Thai suki and shabu-shabu, with fried sides. Open from 10:30 to 05:00. THB 234 minimum per person.
+* Mu kratha: a Thai classic, combining a grill with Thai suki. A mu kratha grill consists of a domed grilling area for thin slices of meat, usually pork or beef, and a broth-filled ridge for cooking vegetables or other kinds of meat.
+  - [Bar B Q Plaza](https://www.instagram.com/barbqplaza_th): à la carte, usually found in malls. Follows mall closing times. Price usually between THB 250 and 500 per person.
+  - Mom-and-pop mu kratha places: usually all-you-can-eat, sometimes à la carte or by weight (pricing based on how much meat you take; vegetables usually provided for free). Usually with outdoor seating, so some heat tolerance required. These places tend to be cheaper and will be open late into the night. To find one, search “หมูกระทะ” in Google Maps.
