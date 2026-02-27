@@ -6,20 +6,20 @@
 
 | Date | Program | Access |
 |-----|-------|-------|
-| Sunday, March 8 | Community Day: Celebrating International Women Day  | Free Access |
+| Sunday, March 8 | Community Day: Celebrating International Women's Day  | Free Access |
 | Monday, March 9 | **FOSSASIA Summit Day 1**<br>Opening<br>Conference Sessions, Exhibition | Ticket Required |
 | Tuesday, March 10 | **FOSSASIA Summit Day 2**<br>Conference Sessions, Exhibition, PGDay, Closing | Ticket Required |
 
 ## Social Media
 
-Please share about your participation at the FOSSASIA Summit using the following hashtags: #FOSSASIA #FOSSASIASummit #FOSSASIA2026, connect with FOSSASIA on [Mastodon](https://floss.social/@fossasia) or [X](https://x.com/fossasia) for more updates.
+Please share your experience at the FOSSASIA Summit using the following hashtags: #FOSSASIA #FOSSASIASummit #FOSSASIA2026, connect with FOSSASIA on [Mastodon](https://floss.social/@fossasia) or [X](https://x.com/fossasia) for more updates.
 - Event Page: https://summit.fossasia.org/
 - LinkedIn Event: https://www.linkedin.com/events/fossasiasummit20267365622195609395202
 
-And, connect with FOSSASIA on other social channels:
+And connect with FOSSASIA on other social channels:
 - Facebook https://facebook.com/fossasia/
 - LinkedIn: https://www.linkedin.com/company/2982840/  
-- Github: https://github.com/fossasia/
+- GitHub: https://github.com/fossasia/
 - YouTube: https://youtube.com/@FOSSASIAorg/
 
 ## Conference Photo
