@@ -61,7 +61,7 @@ We prepared for you a [collection of points of interest on google map](https://w
   - Map: [Asiatique the Riverfront](https://maps.app.goo.gl/FGh8DxUhbZnWrp1U7)
 - **Train Night Market Srinakarinindra**
   - A retro night market with vintage goods, trendy fashion, street food, and a lively vibe.
-  - 🚆 MRT Suan Luang Rama 9 and then take a taxi 🚕 or a motorcycle 🛵 (Win)
+  - 🚆 MRT Suan Luang Rama 9
   - Map: [Train Night Market Srinagarindra](https://maps.app.goo.gl/SiypReL8X5eQoTSb6) 
 - **Suan Luang Rama IX**
   - A vast and serene public park in Bangkok. It has beautiful gardens, a large lake, and a botanical garden. They are perfect for relaxing, jogging, or picnicking.
