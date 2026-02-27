@@ -16,7 +16,7 @@ A dedicated mother’s room is available for nursing. Please visit the **Registr
 
 ## Accessibility
 
-The venue is equipped to support participants with mobility assistance. We also support speakers requiring accessibility accommodation during their session (as in, usage of assistive technology).
+The venue is equipped to support participants with mobility assistance. We also support speakers requiring accessibility accommodation during their session (such as the use of assistive technology).
 
 [Please notify the organizers in advance at **office@fossasia.org** for a smooth accessibility accommodation](mailto:office@fossasia.org?subject=Accessibility%20Accommodation%20for%20FOSSASIA%20Summit%202026).
 
