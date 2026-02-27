@@ -50,7 +50,7 @@ A bus stop with multiple routes is located **directly in front of the venue**.
 
 These iconic three-wheeled vehicles come in two varieties: 
 
-1. **[Muvmi](https://muvmi.co/)** — An app-based prepaid service offering comfortable rides with knowledgeable drivers that operate as a last mile provider
+1. **[Muvmi](https://muvmi.co/)** — An app-based prepaid service offering comfortable rides with knowledgeable drivers who operate as a last-mile provider
 2. **Street-hailed tuk tuks** — catering primarily to tourists seeking thrilling city tours (always negotiate fares in advance)
 
 ## Canal Boats
