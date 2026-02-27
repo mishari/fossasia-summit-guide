@@ -62,7 +62,16 @@ Transforming locally grown Thai cacao into award-winning bean-to-bar creations, 
 
 Fueling the city's creative energy, local specialty coffee roasters and hidden slow bars are celebrated for their meticulously sourced beans and innovative brewing techniques.
 
-TBD
+- [Nana Coffee Roasters Bangna](https://nanacoffeeroasters.com/) - Set within a stunning, nature-inspired architectural space, this international award-winning specialty roaster offers an immersive coffee experience featuring meticulously sourced global beans and precision brewing.
+- [Factory Coffee](https://factorybkk.com/) - Helmed by international champion baristas, this industrial-chic destination is internationally renowned for its wildly creative, theatrical signature espresso beverages and exceptional house-roasted blends.
+- [Ristr8to](https://www.facebook.com/ristr8to/) - Founded by a world latte art champion, this fiercely independent cafe focuses entirely on perfecting the craft of espresso, serving intricately poured cups with an edgy, uncompromising attitude.
+- [Roots at The COMMONS](https://rootsbkk.com/) - Dedicated exclusively to elevating native Thai coffee, this beloved specialty counter inside a bustling open-air community mall serves exceptional cold brews and seasonal, locally inspired drinks.
+- [Brave Roasters](https://www.facebook.com/braveroasters/) - Overlooking the vibrant downtown shopping district from its sleek mall vantage point, this pioneering local roaster combines expertly crafted, Thai-grown specialty coffee with a highly relaxed atmosphere.
+- [RISTRETTO](https://www.facebook.com/RISTRETTOBKK/) (not to be confused with Ristr8to above)- Specializing in the highly concentrated extraction method it is named after, this focused espresso bar delivers intensely flavorful, rich, and bold shots designed for true coffee purists.
+- [BICO Custom Roaster](https://www.facebook.com/bicocafe/) - Tucked away as a cozy neighborhood gem, this passionate micro-roastery carefully sources and custom-roasts small batches to highlight the unique, delicate tasting notes of each origin.
+- [Ministry of Roasters](https://www.instagram.com/ministryofroasters/) - Playfully designed to mimic a vintage Thai government office, this highly serious, award-winning roastery meticulously grades and brews its own beans to deliver a top-tier specialty coffee experience.
+
+For more coffe shops, theres a good list [here](https://translate.kagi.com/www.grab.com/th/en/food-blog/%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97?kt_quality=best)
 
 ### Matcha
 
