@@ -1,7 +1,13 @@
 # Wellness & Leisure
 
 ## Traditional Massage
-Thailand is renowned worldwide for its massage traditions, offering therapeutic techniques that have been perfected over centuries. Thai massage, known locally as "nuat phaen boran," combines acupressure, stretching, and energy line work to restore balance and vitality. Whilst there are many service providers, [Urban Thai Massage](https://www.spa-urbanthaispa.com/bangkok/) is considered reputable and will offer a 15% discount for our participants if they present their conference badge at their [Surawong location](https://maps.app.goo.gl/DexMg2cRHQi4FL5Y8).
+Thailand is renowned worldwide for its massage traditions, offering therapeutic techniques that have been perfected over centuries. Thai massage, known locally as "nuat phaen boran," combines acupressure, stretching, and energy line work to restore balance and vitality. Here are some providers that are reputable and will provide a quality experience:
+
+- [Urban Thai Massage](https://www.spa-urbanthaispa.com/bangkok/)
+- [Let's Relax](https://letsrelaxspa.com/)
+- [Printemps Spa](https://printemps-spa.com/)
+
+Apart from these, due to the fierce competition, online reviews tend to be reliable.
 
 ## Points of Interest
 We prepared for you a [collection of points of interest on google map](https://www.google.com/maps/d/u/1/edit?mid=1KobjDD51T3fSvLVGnTJQWh5NO_v8y_s&usp=sharing). Hope this will make things a bit easier for you, please feel free to share/add your points of interest into this shared map! 
