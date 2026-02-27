@@ -19,7 +19,7 @@ For those seeking exceptional culinary experiences, here are some selected resta
 
 Bangkok has reliable food delivery services that are easy to use for international visitors. Popular apps include **GrabFood** and **LINE MAN**. All offer English-language interfaces and allow you to filter restaurants by dietary preferences, including **halal** and **vegetarian** options. Delivery is fast and widely available across the city. Insider tip: the Yindii app is a food waste reduction app that will deliver surprise boxes from premium food outlets for 30 - 70% off.
 
-Note, it can be confusing as some vegetarian restaurants serve imitation meat that's described as meat (i.e. pork, chicken) but in effect vegetarian, whilst others will wrongly appear in the search. If in doubt feel free to ask the local organizers.
+Note: it can be confusing as some vegetarian restaurants serve imitation meat that's described as meat (i.e. pork, chicken) but in effect vegetarian, whilst others will wrongly appear in the search. If in doubt, feel free to ask the local organizers.
 
 ## Rooftop Bars
 
@@ -30,7 +30,7 @@ Bangkok's skyline provides a magnificent backdrop for evening dining and drinks.
 - [Red Sky at Centara Grand](https://www.instagram.com/redskybangkok/?hl=en)
 - [Penthouse Bar + Grill](https://www.instagram.com/penthousebangkok/?hl=en)
 
-## Dessert / Tea / Coffees:
+## Desserts / Tea / Coffee:
 
 Beyond its famous street food, Bangkok is a premier destination for exceptional coffee, tea, matcha, and craft chocolate. Local delivery apps make sampling these delights easy, but experiencing the unique atmosphere and perfectly crafted flavors directly at the source is highly recommended.
 
@@ -44,15 +44,15 @@ From Michelin-recognized heritage storefronts serving authentic mango sticky ric
 - [Divana Signature Cafe](https://www.instagram.com/divanasignaturecafe/) - Beautifully decorated, floral-themed cafe established by a renowned Thai spa brand, known for its intricate afternoon tea sets and deeply relaxing ambiance.
 - [K. Panich Sticky Rice](https://maps.app.goo.gl/PymoXAg3jQ3Zr8D8A) - Legendary, Michelin Bib Gourmand-recognized storefront open since 1947 that is celebrated for serving some of Bangkok's most authentic and delicious mango sticky rice.
 
-### Cacao and Chcocolate
+### Cacao and Chocolate
 
-Transforming locally grown Thai cacao into award-winning bean-to-bar creations, these artisanal chocolatiers proudly highlight the rich, complex terroir of the country's own agricultural harvest, with a Michelin star chef saying "[Thai cocolate is one of the best in the world](https://cnaluxury.channelnewsasia.com/people/michelin-restaurant-igniv-chef-arne-riehn-bangkok-250336)". To appreciate the craft chocolate bar, we recommend buying several different flavours, breaking of one piece at a time, let it melt in your mouth, then try another type.
+Transforming locally grown Thai cacao into award-winning bean-to-bar creations, these artisanal chocolatiers proudly highlight the rich, complex terroir of the country's own agricultural harvest, with a Michelin star chef saying "[Thai chocolate is one of the best in the world](https://cnaluxury.channelnewsasia.com/people/michelin-restaurant-igniv-chef-arne-riehn-bangkok-250336)". To appreciate the craft chocolate bar, we recommend buying several different flavours, breaking off one piece at a time, let it melt in your mouth, then try another type.
 
 - [Kad Kokoa - Single Origin Thai Chocolate](https://kadkokoa.co/) - Focusing heavily on single-origin terroir, this pioneering Thai craft brand elevates the country's harvest by turning locally farmed beans into premium, award-winning chocolate.
 - [32 Barx & WeWish Chocolate](https://www.instagram.com/wewish.chocolate/) - Located in [8 Thong lor](https://maps.app.goo.gl/4CKyM2mF293eXmR87), showcasing an internationally recognized, award-winning Thai craft chocolatier, this specialty cafe serves intensely rich, single-origin drinking chocolates famously crafted by melting almost an entire premium chocolate bar directly into each cup.
-- [CHO Bangkok](https://www.instagram.com/explore/locations/122987579965846/cho-bangkok/) - Woman owned and operated, tucked away in the vibrant Asoke area, this cozy artisan cafe specializes in exquisitely crafted filled chocolate bars, crunchy Thai-inspired toffees, and an exceptionally smooth house-blend hot chocolate.
+- [CHO Bangkok](https://www.instagram.com/explore/locations/122987579965846/cho-bangkok/) - Woman-owned and operated, tucked away in the vibrant Asoke area, this cozy artisan cafe specializes in exquisitely crafted filled chocolate bars, crunchy Thai-inspired toffees, and an exceptionally smooth house-blend hot chocolate.
 - [Kanvela Chocolate](https://www.kanvelachocolate.com/) - Garnering international acclaim and proudly serving its creations to Thai Airways premium passengers, this Chiang Mai-founded brand champions sustainable bean-to-bar craftsmanship to transform locally grown cacao into award-winning delicacies.
-- [Christoph Chocolate](https://www.instagram.com/christophchocolate/) - Using premium imported ingredients to craft its decadent menu, this chic spot is famous among locals for its signature chocolate "slurpee," an intensely rich and satisfying drink that drinks exactly like a liquid chocolate mousse.
+- [Christoph Chocolate](https://www.instagram.com/christophchocolate/) - Using premium imported ingredients to craft its decadent menu, this chic spot is famous among locals for its signature chocolate "slurpee," an intensely rich and satisfying drink that tastes exactly like a liquid chocolate mousse.
 - [Ch'och' Specialty Chocolate](https://www.instagram.com/choch.songwat/) - Hidden behind old wooden warehouse doors within the beautifully preserved, historic merchant neighborhood of Song Wat, this vintage-style cafe highlights the distinct terroir of Thailand by serving single-origin craft chocolates sourced directly from regional farms.
 - [Fair Chocolate](https://www.instagram.com/fair.chocolate/) - Nestled in the bustling Yaowarat (Chinatown) district, this micro-batch chocolate maker champions seasonal, 100% natural Thai single-origin beans, allowing visitors to experience the distinct terroir of different local provinces through carefully guided tasting flights and specialty drinks.
 - [Cacao Everywhere](https://www.instagram.com/cacaoeverywhere/) - Serving as a comprehensive hub for the country's craft chocolate community near Sam Yan, this store gathers artisanal brands from various regional makers under one roof, offering an unparalleled opportunity to explore and compare Thailand's finest cacao in a single visit.
@@ -71,7 +71,7 @@ Fueling the city's creative energy, local specialty coffee roasters and hidden s
 - [BICO Custom Roaster](https://www.facebook.com/bicocafe/) - Tucked away as a cozy neighborhood gem, this passionate micro-roastery carefully sources and custom-roasts small batches to highlight the unique, delicate tasting notes of each origin.
 - [Ministry of Roasters](https://www.instagram.com/ministryofroasters/) - Playfully designed to mimic a vintage Thai government office, this highly serious, award-winning roastery meticulously grades and brews its own beans to deliver a top-tier specialty coffee experience.
 
-For more coffe shops, theres a good list [here](https://translate.kagi.com/www.grab.com/th/en/food-blog/%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97?kt_quality=best)
+For more coffee shops, there's a good list [here](https://translate.kagi.com/www.grab.com/th/en/food-blog/%E0%B8%84%E0%B8%B2%E0%B9%80%E0%B8%9F%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%B8%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%97?kt_quality=best)
 
 ### Matcha
 
@@ -90,7 +90,7 @@ Bangkok is world-renowned for its late-night food culture, meaning you will neve
 Rather than being unpredictable, late-night street food and local eateries are highly concentrated in vibrant, easy-to-find foodie districts. Heading to [Banthat Thong Road](https://www.bangkokpost.com/life/social-and-lifestyle/1727263/street-food-paradise) (near Chulalongkorn University) or the legendary [Yaowarat](https://en.wikivoyage.org/wiki/Bangkok/Yaowarat_and_Phahurat) (Chinatown) guarantees endless rows of bustling street food stalls, modern dessert cafes, and local restaurants that operate past midnight.
 
 ### Midnight Dining Staples
-Locals frequently gather at late-night hot pot restaurants, especially traditional mu kratha (Thai BBQ hot pot), many of which stay open until 02:00 or later. Additionally, central areas like Sukhumvit and Thong Lo are packed with Japanese izakayas, late-night pubs, and international eateries catering to the after-hours crowd. The area around Nana BTS area also has a large selection of mostly middle eastern restaurants, most which also serve respectable Thai food.
+Locals frequently gather at late-night hot pot restaurants, especially traditional mu kratha (Thai BBQ hot pot), many of which stay open until 02:00 or later. Additionally, central areas like Sukhumvit and Thong Lo are packed with Japanese izakayas, late-night pubs, and international eateries catering to the after-hours crowd. The area around Nana BTS station also has a large selection of mostly Middle Eastern restaurants, most of which also serve respectable Thai food.
 
 ### 24-Hour Lifesavers
 If you need a guaranteed sit-down meal at 03:00 AM, the city features several reliable, round-the-clock institutions:
@@ -100,7 +100,7 @@ If you need a guaranteed sit-down meal at 03:00 AM, the city features several re
 - [A Ramen](https://www.a-ramen.com/branches) - Famous for its Japanese-style solo dining booths, this popular chain serves highly customizable, piping-hot ramen 24 hours a day.
 - 7-Eleven, Lawson, Tops Daily - Found on nearly every street corner, these convenience stores are fully open 24/7 and offer surprisingly good hot meals, toasted sandwiches, and late-night snacks that the staff will heat up for you on the spot.
 
-And of course, delivery apps are available 27/7
+And of course, delivery apps are available 24/7
 
 ## Must-try Dishes (local recommended) 
 
@@ -198,7 +198,7 @@ const foods = [
     image: "/guide/image12.webp",
     title: "Seafood in Bangkok",
     description:
-      "Bangkok is a haven for seafood lovers, offering fresh and flavorful dishes like grilled fish, spicy seafood salads, and crispy oyster omelettes. From street-side vendors to upscale restaurants, Thai seafood highlights vibrant spices and herbs.there’s something for everyone.",
+      "Bangkok is a haven for seafood lovers, offering fresh and flavorful dishes like grilled fish, spicy seafood salads, and crispy oyster omelettes. From street-side vendors to upscale restaurants, Thai seafood highlights vibrant spices and herbs. There’s something for everyone.",
     links: [
       { label: "Laem Charoen Seafood Central World", url: "https://maps.app.goo.gl/TQYw66XvPRU7B7YLA" },
       { label: "Kuang Seafood", url: "https://maps.app.goo.gl/gRtPw2enosz8JXgN9" }
@@ -208,7 +208,7 @@ const foods = [
     image: "/guide/image2.webp",
     title: "Khao Man Gai (Hainanese Chicken Rice)",
     description:
-      "Beloved Thai dish consists of poached chicken served over fragrant rice cooked in chicken broth, accompanied by a flavorful ginger-chili sauce and a side of clear chicken soup.",
+      "This beloved Thai dish consists of poached chicken served over fragrant rice cooked in chicken broth, accompanied by a flavorful ginger-chili sauce and a side of clear chicken soup.",
     links: [
       { label: "Boon Tong Kiat Singapore Chicken Rice", url: "https://maps.app.goo.gl/oiz6HLjaYYwenb976" },
       { label: "Muek Mun Kai Chicken Rice", url: "https://maps.app.goo.gl/YxFDgM6iEyJMDRCv5" }
