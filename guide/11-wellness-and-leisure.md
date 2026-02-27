@@ -10,7 +10,7 @@ Thailand is renowned worldwide for its massage traditions, offering therapeutic 
 Apart from these, due to the fierce competition, online reviews tend to be reliable.
 
 ## Points of Interest
-We prepared for you a [collection of points of interest on google map](https://www.google.com/maps/d/u/1/edit?mid=1KobjDD51T3fSvLVGnTJQWh5NO_v8y_s&usp=sharing). Hope this will make things a bit easier for you, please feel free to share/add your points of interest into this shared map! 
+We've put together a [collection of points of interest on Google Maps](https://www.google.com/maps/d/u/1/edit?mid=1KobjDD51T3fSvLVGnTJQWh5NO_v8y_s&usp=sharing). We hope this makes things a bit easier. Feel free to share and add your own points of interest to the map!
 
 <div style="width:100%; aspect-ratio:16/9;">
   <iframe
@@ -60,9 +60,9 @@ We prepared for you a [collection of points of interest on google map](https://w
   - A busy area famous for its street food, gold shops, and Chinese culture.
   - 🚝 BTS Wat Mangkon
   - Map: [Yaowarat Rd](https://maps.app.goo.gl/nHpWJDFbKgwPr8cw6)
-  - Notes: Most shops open around 18:00, so I would recommend visiting this place after 18:00.
+  - Notes: Most shops open around 18:00, so we recommend visiting after 18:00.
 - **Asiatique the Riverfront**
-  - A night market and lifestyle hub on the Chao Phraya River. It combines shopping, dining, and   - entertainment.
+  - A night market and lifestyle hub on the Chao Phraya River. It combines shopping, dining, and entertainment.
   - 🚝 BTS Saphan Taksin, and then take the ferry 🛳 to the destination (blue flag).
   - Map: [Asiatique the Riverfront](https://maps.app.goo.gl/FGh8DxUhbZnWrp1U7)
 - **Train Night Market Srinakarinindra**
@@ -70,7 +70,7 @@ We prepared for you a [collection of points of interest on google map](https://w
   - 🚆 MRT Suan Luang Rama 9
   - Map: [Train Night Market Srinagarindra](https://maps.app.goo.gl/SiypReL8X5eQoTSb6) 
 - **Suan Luang Rama IX**
-  - A vast and serene public park in Bangkok. It has beautiful gardens, a large lake, and a botanical garden. They are perfect for relaxing, jogging, or picnicking.
+  - A vast and serene public park in Bangkok. It has beautiful gardens, a large lake, and a botanical garden — all perfect for relaxing, jogging, or picnicking.
   - 🚆 MRT Suan Luang Rama 9
   - Map: [Suan Luang Rama IX](https://maps.app.goo.gl/p6Sm3pWR7U9TiKuw8)
 - **W Market**
